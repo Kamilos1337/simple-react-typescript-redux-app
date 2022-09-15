@@ -16,6 +16,7 @@
     "@types/react": "^18.0.20",
     "@types/react-dom": "^18.0.6",
     "axios": "^0.27.2",
+    "cross-env": "^7.0.3",
     "env-cmd": "^10.1.0",
     "moment": "^2.29.4",
     "react": "^18.2.0",
@@ -29,7 +30,7 @@
   },
   "scripts": {
     "start": "env-cmd -f config/.env.app react-scripts start",
-    "build": "react-scripts build",
+    "build": "env-cmd -f config/.env.app react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

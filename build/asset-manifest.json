@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d01d31e1.js",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.e24776d52265052a116a.jpg",
+    "static/media/Sora-Bold.ttf": "/static/media/Sora-Bold.4473853965a9d49c11d9.ttf",
+    "static/media/Sora-Regular.ttf": "/static/media/Sora-Regular.59e8cd26fdf2c27c0ec7.ttf",
+    "index.html": "/index.html",
+    "main.d01d31e1.js.map": "/static/js/main.d01d31e1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d01d31e1.js"
+  ]
+}
